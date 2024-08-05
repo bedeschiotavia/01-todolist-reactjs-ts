@@ -9,7 +9,7 @@ export function Input({
   return (
     <input
       className={styles.container}
-      placeholder="Add new task"
+      placeholder="What should we do?"
       {...rest}
     />
   )
