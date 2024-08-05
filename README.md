@@ -1,3 +1,5 @@
-# React TO DO LIST
+# React ToDo List
 ToDo List is a web page for creating and controlling tasks.
-This project is one of the challenges in Rocketseat's React Ignite track
+This project is one of the challenges in Rocketseat's React Ignite track.
+
+
